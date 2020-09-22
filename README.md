@@ -1,4 +1,5 @@
-# Garayd - is a web portal for writers supercharging them with tools to enrich the arabic content in middleast
+# Garayd
+is a web portal for writers supercharging them with tools to enrich the arabic content in middleast
 garayd website http://garayd.com
 
 # Screenshots 
